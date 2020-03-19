@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "252569001360",
+    "firebase_url": "https://labs-pmp.firebaseio.com",
+    "project_id": "labs-pmp",
+    "storage_bucket": "labs-pmp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252569001360:android:b60c3fbb0a2b4166626715",
+        "android_client_info": {
+          "package_name": "com.univer.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252569001360-4h3ihe4hjocotklq2ent55h8o6qd7fu1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.univer.chat",
+            "certificate_hash": "a024163592ac7fba0cd018b1ffb5c984f528aafb"
+          }
+        },
+        {
+          "client_id": "252569001360-q5ihu0klf128u3gi5mtpigcdej9je4r8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyNqjAXiC7KAEXIOUK0tgMQODMQ60_RdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252569001360-q5ihu0klf128u3gi5mtpigcdej9je4r8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
